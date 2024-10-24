@@ -1,5 +1,5 @@
 # Fine-Tune Information Extractor for NLP Tasks based on mBART
-
+[![Downloads](https://static.pepy.tech/badge/FineTune-Information-Extractor-for-NLPTasks-based-mBART)](https://pepy.tech/project/FineTune-Information-Extractor-for-NLPTasks-based-mBART)
 
 Fine-Tune Information Extractor for NLP Tasks based on **mBART** is a powerful library designed for fine-tuning the pre-trained `mBART` model on custom information extraction tasks. The library provides an intuitive interface for loading datasets, fine-tuning the mBART model, and exporting results efficiently in multilingual contexts.
 
