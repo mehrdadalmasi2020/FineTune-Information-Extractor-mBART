@@ -4,7 +4,7 @@
 Fine-Tune Information Extractor for NLP Tasks based on **mBART** is a powerful library designed for fine-tuning the pre-trained `mBART` model on custom information extraction tasks. The library provides an intuitive interface for loading datasets, fine-tuning the mBART model, and exporting results efficiently in multilingual contexts.
 
 To fine-tune the **mBART model** included in this library, please ensure that your system has a **GPU with at least 20GB of memory** (depending on the input training text, memory usage can grow up to 40GB).
-This requirement is necessary for training large models like `facebook/mbart-large-cc25` on moderate to large datasets.
+This requirement is necessary for training on moderate to large datasets.
 
 
 ## Table of Contents
