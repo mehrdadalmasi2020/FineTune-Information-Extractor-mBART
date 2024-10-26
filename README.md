@@ -12,7 +12,6 @@ This requirement is necessary for training on moderate to large datasets.
 - [Quick Start](#quick-start)
 - [Fine-tuning the Model](#fine-tuning-the-model)
 - [Model Loading and Inference](#model-loading-and-inference)
-- [Results](#results)
 - [Authors](#authors)
 - [License](#license)
 - [Example Usage](#example-usage)
